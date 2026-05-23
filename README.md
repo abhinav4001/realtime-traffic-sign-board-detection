@@ -35,11 +35,11 @@ I built this project mainly to learn more about Computer Vision, Deep Learning, 
 
 ### Image Upload Detection
 
-![Upload Detection](./screenshots/upload_detection.png)
+![Upload Detection](./screenshots/upload_detection.png.png)
 
 ### Webcam Detection
 
-![Webcam Detection](./screenshots/webcam_detection.png)
+![Webcam Detection](./screenshots/webcam_detection.png.png)
 
 ---
 
